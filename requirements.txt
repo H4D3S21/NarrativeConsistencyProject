@@ -1,0 +1,27 @@
+# --- CORE PATHWAY & DATA ---
+pathway
+pandas>=2.0.0
+numpy<2.0.0
+
+# --- LLM & VECTOR SEARCH ---
+openai>=1.10.0
+requests>=2.31.0
+tantivy>=0.20.1
+sentence-transformers>=2.2.2
+
+# --- UTILITIES ---
+python-dotenv>=1.0.0
+tqdm>=4.66.0
+
+# --- PERFORMANCE ---
+aiohttp>=3.9.0
+
+# requirements.txt
+numpy
+pandas
+tqdm
+torch
+sentence-transformers
+pathway
+scikit-learn
+
