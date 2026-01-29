@@ -106,5 +106,5 @@ These trade-offs are intentional to ensure **robust, interpretable, and reproduc
 
 ---
 
-**Author**: KDSH 2026 Participant
+**Author**: KDSH 2026 Participant: Darpan Khurana, Shrushti Wakchaure
 **Track**: Narrative Reasoning / Consistency Detection
